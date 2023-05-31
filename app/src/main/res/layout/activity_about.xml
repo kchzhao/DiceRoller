@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:orientation="vertical"
+    tools:context="edu.rollins341.project3starter.AboutActivity">
+
+    <ImageView
+        android:id="@+id/my_image"
+        android:layout_width="177dp"
+        android:layout_height="138dp"
+        android:layout_weight="0"
+        android:contentDescription="My Image"
+        android:src="@drawable/image" />
+
+    <TextView
+        android:id="@+id/text_about"
+        android:layout_width="354dp"
+        android:layout_height="150dp"
+        android:text=" This is an enhanced dice roller built by Kamila."
+        android:textSize="35dp" />
+
+
+</LinearLayout>

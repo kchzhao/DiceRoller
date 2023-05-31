@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="blue_500">#3F51B5</color>
+    <color name="blue_700">#303F9F</color>
+    <color name="red_900">#D50000</color>
+    <color name="magenta">#BB2649</color>
+    <color name="very_peri">#6868ab</color>
+    <color name="lavender_blossom">#D4B1ED</color>
+    <color name="oyster_gray">#B3A95C</color>
+    <color name="tiffany_blue">#81D8D0</color>
+    <color name="marigold">#F5B915</color>
+</resources>
